@@ -1,7 +1,4 @@
-# Tarefa Individual - ODBC e ORM
 
-**Estudante:** Laety Maniery de Araújo Batista
-**Matrícula:** 20220002663
 
 ## Resumo sobre ODBC (Questão 2.b)
 O ODBC (Open Database Connectivity) é uma interface padrão para acessar SGBDs. No Python, usamos o driver `psycopg2` para realizar essa comunicação direta com o PostgreSQL. Ele permite executar comandos SQL puros, oferecendo controle total sobre as transações.
