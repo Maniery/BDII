@@ -1,2 +1,2 @@
-# BDII-t1
+# BDII
 database tasks
