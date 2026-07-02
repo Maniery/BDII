@@ -1,9 +1,12 @@
 # BDII
-database tasks
-## Tarefas de Banco de Dados
-# Tarefa Individual - ODBC e ORM
 
-**Estudante:** Laety Maniery de Araújo Batista
-**Matrícula:** 20220002663
+Repositório das tarefas da disciplina de Projeto e Administração de Banco de Dados.
 
-* [Tarefa - ODBC e ORM](./database/20252/tarefas/Maniery/tarefa-orm.md)
+## Estudante
+
+- **Nome:** Laety Maniery de Araújo Batista
+- **Matrícula:** 20220002663
+- **E-mail:** laety.maniery.119@ufrn.edu.br
+## Tarefas
+
+- [Tarefa Individual - ODBC e ORM](./database/20252/tarefas/Maniery/tarefa-orm.md)
